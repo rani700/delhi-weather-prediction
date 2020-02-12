@@ -4,7 +4,7 @@
 ## I have predicted	_tempm column values using machine learning models and deep learning models and obtained rmse loss which are shown in below table.
 
 
-| model name| RMSE value on Training set   | RMSE value on Test set |
+| model name| MSE value on Training set   | MSE value on Test set |
 | ------------- |:-------------:|:-------------:|
 | Linear Regression(Univariate)   |  -     |  0.1519       |
 | Linear Regression(Multivariate)    | -      |0.1982         | 
